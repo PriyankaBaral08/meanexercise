@@ -1,0 +1,25 @@
+{
+  "name": "meanexercise",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/PriyankaBaral08/meanexercise#readme",
+  "bugs": {
+    "url": "https://github.com/PriyankaBaral08/meanexercise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyankaBaral08/meanexercise.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  }
+}
